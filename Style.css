@@ -12,7 +12,7 @@
 body { 
     background-color: #32323c;
     font-family: "Montserrat", sans-serif;
-    /*Background-image:url ('cool_background.png');  */
+    Background-image:url ('cool_background.png');  
     background-size: cover;
     
    
@@ -291,13 +291,3 @@ left: 0px;
     translate: -48px -55px;
        
 }
-
-/*
-.img_background{
-background-image: url('cool_background.png');
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-background-attachment: fixed;   
-
-}*/
